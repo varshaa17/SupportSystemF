@@ -1,4 +1,4 @@
-# CogniFlow
+# SupportSystem
 
 > A real-time SaaS support platform with a self-improving knowledge base that gets smarter with every resolved ticket.
 
@@ -8,13 +8,13 @@
 
 Support teams at SaaS companies face a compounding problem: the same questions get asked repeatedly, agents spend time solving problems that have already been solved, and institutional knowledge lives in people's heads rather than anywhere searchable. Standard solutions — static FAQ pages, rigid ticketing systems, manual knowledge bases — all suffer from the same flaw: they require constant manual maintenance to stay relevant and they don't learn from the work agents are already doing.
 
-CogniFlow solves this by treating every resolved support ticket as a learning opportunity. When an agent closes a ticket, the solution they wrote automatically flows into a knowledge base. When the next customer describes the same problem, the system surfaces that solution — no manual curation required. The knowledge base improves on its own just by being used.
+SupportSystem solves this by treating every resolved support ticket as a learning opportunity. When an agent closes a ticket, the solution they wrote automatically flows into a knowledge base. When the next customer describes the same problem, the system surfaces that solution — no manual curation required. The knowledge base improves on its own just by being used.
 
 ---
 
-## What CogniFlow Does
+## What SupportSystem Does
 
-CogniFlow is a full-stack support operations platform connecting three roles:
+SupportSystem is a full-stack support operations platform connecting three roles:
 
 - **Customers** — submit queries through a support chat widget, search for solutions, and give feedback on whether articles helped
 - **Agents** — manage tickets through a full lifecycle (pending → approval → resolved), get KB suggestions while on a call, and submit closing reviews that teach the KB
